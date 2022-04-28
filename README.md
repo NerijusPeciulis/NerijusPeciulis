@@ -1,12 +1,12 @@
 Hi 👋 My name is Nerijus Peciulis
 =================================
 
-Fullstack entry level Developer :)
+Student in Code Academy :)
 ----------------------------------
 
 I have started Front-End developer course in CodeAcademy in 2021. First we learned html, css and JSscript. Now we are learning c#.
 
-* 🌍  I'm based in Mažeikiai
+* 🌍  I'm based in Mažeikiai, Lithuania
 * ✉️  You can contact me at [Npeciulis@yahoo.com](mailto:Npeciulis@yahoo.com)
 * 🧠  I'm learning C#, Html, Css, JSscript.
 
