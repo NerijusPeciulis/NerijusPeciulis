@@ -8,7 +8,7 @@ I have started Front-End developer course in CodeAcademy in 2021. First we learn
 
 * 🌍  I'm based in Mažeikiai
 * ✉️  You can contact me at [Npeciulis@yahoo.com](mailto:Npeciulis@yahoo.com)
-* 🧠  I'm learning I'm learning C#, Html, Css, JSscript.
+* 🧠  I'm learning C#, Html, Css, JSscript.
 
 <a href="https://www.github.com/NerijusPeciulis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NerijusPeciulis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
