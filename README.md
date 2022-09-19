@@ -3,7 +3,7 @@ Hi 👋 My name is Nerijus Peciulis
 
 
 
-I have started Front-End developer course in CodeAcademy in 2021. First we learned html, css and JSscript. Now we are learning c#.
+
 
 * 🌍  I'm based in Mažeikiai, Lithuania
 * ✉️  You can contact me at [Npeciulis@yahoo.com](mailto:Npeciulis@yahoo.com)
