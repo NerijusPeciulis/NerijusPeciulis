@@ -1,8 +1,7 @@
 Hi 👋 My name is Nerijus Peciulis
 =================================
 
-Student in Code Academy :)
-----------------------------------
+
 
 I have started Front-End developer course in CodeAcademy in 2021. First we learned html, css and JSscript. Now we are learning c#.
 
