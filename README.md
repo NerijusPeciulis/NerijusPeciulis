@@ -7,7 +7,7 @@ Hi 👋 My name is Nerijus Peciulis
 
 * 🌍  I'm based in Mažeikiai, Lithuania
 * ✉️  You can contact me at [Npeciulis@yahoo.com](mailto:Npeciulis@yahoo.com)
-* 🧠  I'm learning C#, Html, Css, JSscript.
+* 🧠  I'm learning .NET, SQL, C#, Html, Css, JSscript.
 
 <a href="https://www.github.com/NerijusPeciulis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NerijusPeciulis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
